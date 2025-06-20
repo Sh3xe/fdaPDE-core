@@ -37,6 +37,7 @@
 
 // algorithms
 #include "src/optimization/grid.h"
+#include "src/optimization/nedler_mead.h"
 #include "src/optimization/newton.h"
 #include "src/optimization/gradient_descent.h"
 #include "src/optimization/bfgs.h"
